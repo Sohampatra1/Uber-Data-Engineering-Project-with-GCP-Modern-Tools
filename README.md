@@ -34,6 +34,13 @@ This project aims to analyze the Uber dataset using various data engineering and
 
 12. **Data Visualization**: Utilize Looker or Data Studio to create visualizations and analyze the Uber dataset.
 
+
+## Hashnode Blog Post
+
+Check out my detailed blog post on this project on [Hashnode](https://sohampatra.hashnode.dev/building-an-uber-data-engineering-project-with-gcp-and-modern-tools).
+
+
+
 ## Project Dependencies
 
 - Python 3
